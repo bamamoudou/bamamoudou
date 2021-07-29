@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bamamoudou
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java Achitecture
+- 👀 I’m interested in Web development Java
+- 🌱 I’m currently  Java Softeware engineer 
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me mamoudouba8787@gmail.com
 
